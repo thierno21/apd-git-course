@@ -1,0 +1,6 @@
+a=int(input("tapez la valeur de :  a "))
+b=int(input("tapez la valeur de :  a "))
+c=int(input("tapez la valeur de :  a "))
+d=int(input("tapez la valeur de :  a "))
+s=(a)+(b)+(c)+(d)
+print("la somme des elements de a et d est ",s)
